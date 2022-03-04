@@ -40,7 +40,7 @@ if btn:
         container.empty()
         st.balloons()
         st.title("Te has registrado de manera exitosa!")
-        st.markdown("Puedes ingresar a tu cuenta en **[aiesec.org](https://auth.aiesec.org/users/sign_in?country=)**")
+        st.markdown("Puedes ingresar a tu cuenta en **[aiesec.org](https://auth.aiesec.org/users/sign_in?country=#login)**")
         st.caption("Debes ser contactad@ en las proximas 48h")
 
 
